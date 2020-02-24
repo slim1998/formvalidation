@@ -1,0 +1,30 @@
+body{
+    background: rgb(94,42,42);
+background: linear-gradient(90deg, rgba(94,42,42,1) 0%, rgba(82,42,99,1) 17%, rgba(50,38,64,1) 57%);
+}
+.cases{
+    display: flex;
+    flex-direction: column;
+    align-content: space-between;
+    align-items: center;
+    margin: 45px;
+    
+}
+.btn{   
+    align-content: space-between;
+   display: flex;
+    flex-direction: column;
+    width: 160px;
+    padding: 15px;
+    position: relative;
+    left: -8px;
+}
+input{
+    background-color: rgb(84, 84, 87);
+    border-radius: 5px;
+    width: 180px;
+    border: ;
+    
+}
+
+
